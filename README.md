@@ -1,9 +1,5 @@
 # Cyber-Security-Project-Task-2
 OS Security Fundamentals & Hardening (Task 2)
-📌 Project Overview
-This project is part of my Cyber Security Internship at Elevate Labs. It focuses on understanding and implementing operating system security fundamentals, specifically for Linux and Windows environments. The goal is to apply "Hardening" techniques to reduce the attack surface of an OS.
-
-
 
 🛠️ Tools Used
 
